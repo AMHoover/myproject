@@ -25,3 +25,4 @@ wflow_open("analysis/teeth.Rmd")
 
 * [Teeth growth analysis](teeth.html)
 
+*[Click here to check out Rio's Project!](https://rsalazar2.github.io/myproject/)
