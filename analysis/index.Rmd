@@ -18,5 +18,10 @@ summary(ToothGrowth)
 str(ToothGrowth)
 write.csv(ToothGrowth,file="data/teeth.csv")
 wflow_open("analysis/teeth.Rmd")
+
+
 ```
+
+
+* [Teeth growth analysis](teeth.html)
 
