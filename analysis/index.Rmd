@@ -9,3 +9,14 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+data("ToothGrowth")
+head(ToothGrowth)
+
+```{r}
+summary(ToothGrowth)
+str(ToothGrowth)
+write.csv(ToothGrowth,file="data/teeth.csv")
+wflow_open("analysis/teeth.Rmd")
+```
+
